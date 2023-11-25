@@ -45,7 +45,7 @@
 8. **Graphical User Interface (GUI) Development:**
     - Implement a GUI using the Tkinter library for image selection and prediction.
     - Include buttons for invoking CNN and SVM predictions based on selected images.
-    - ![GUI on tkinter](GUI Snapshot.png)
+    - ![GUI on tkinter](GUI_Snapshot.png)
 
 9. **Gradio App:**
     - Develop a Gradio interface for online prediction using the trained CNN model.
